@@ -3,7 +3,7 @@
 # What steps you have to follow??
 - Download or clone my Repository to your device
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project)
-- open `attendance_run.py` and `AutomaticAttendance.py`, show_attendance.py , takeImage.py , takemanually , change all the path accoriding to your system
+- open `attendance_run.py` and `AutomaticAttendance.py`, `show_attendance.py` , `takeImage.py` , `takemanually.py` , change all the path according to your system
 - Run `attandance_run.py` file
 
 # Project Steps And Explaination
